@@ -24,7 +24,7 @@ These samples are MIT licensed.
 
 12 skills, 5 subagents, 4 tested hooks and 11 CLAUDE.md templates. Pay what you want, $5 minimum, and every sale goes into the public ledger.
 
-**[Get it here →](https://masterchinedum.github.io/rentmoney)**
+**[Get it here →](https://chinedu38.gumroad.com/l/bfdarg)**
 
 ---
 Not affiliated with or endorsed by Anthropic.
